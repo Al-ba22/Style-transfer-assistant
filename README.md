@@ -21,9 +21,10 @@ Currently supported tone: **Professional**
 
 Rewrite the following text in a more professional tone:
 
-“””
+```
 hey i just wanted to let u know that we’re not gonna make it to the meeting today, something came up
-“””
+```
+
 
 ## Future Ideas
 
